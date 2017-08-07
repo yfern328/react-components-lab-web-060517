@@ -1,5 +1,4 @@
 // Make sure to import React and ReactDOM
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 
@@ -47,8 +46,6 @@ export class ButcherShop extends React.Component {
     );
   }
 };
-
-
 
 ReactDOM.render(
   React.createElement('div', {}, [
